@@ -2,7 +2,7 @@
 ### Welcome to my readme generator
 
 ## Description
-This application will help you generate a simple yet enough basic information for your applications.
+This nodejs application will help you generate a simple yet enough basic information for your applications.
 
 ## Table of Contents
 - [Description](#description)
