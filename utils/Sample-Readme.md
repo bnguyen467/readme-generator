@@ -1,5 +1,5 @@
 
-# Readme Generator
+# Sample Readme Template Using Application
 ![badge](https://img.shields.io/badge/license-Apache2.0-blue.svg)
 
 ## Description
