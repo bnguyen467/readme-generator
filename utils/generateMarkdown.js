@@ -24,6 +24,7 @@ ${data.usage}
 
 ## License
 ![badge](https://img.shields.io/badge/license-${data.license}-blue.svg)
+</br>
 This application is licensed under the ${data.license} license.
 
 ## Contributing
@@ -34,6 +35,7 @@ ${data.tests}
 
 ## Questions
 Find me on github: [${data.userName}](https://github.com/${data.userName})
+</br>
 Contact me through email: ${data.email}
 `;
 }
