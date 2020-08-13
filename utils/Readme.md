@@ -1,8 +1,9 @@
+
 # Readme Generator
-### Welcome to my readme generator
+![badge](https://img.shields.io/badge/license-Apache2.0-blue.svg)
 
 ## Description
-This nodejs application will help you generate a simple yet enough basic information for your applications.
+This application creates a readme.md file to utils folder
 
 ## Table of Contents
 - [Description](#description)
@@ -14,16 +15,15 @@ This nodejs application will help you generate a simple yet enough basic informa
 - [Questions](#questions)
 
 ## Installation
-1. You can clone the folder from github
-2. Run "npm i" in the terminal
+clone from github, run "npm i" in the terminal
 
 ## Usage
 UCI bootcamp homework assignment
 
 ## License
-![badge](https://img.shields.io/badge/license-MIT-blue.svg)
+![badge](https://img.shields.io/badge/license-Apache2.0-blue.svg)
 </br>
-This application is licensed under the MIT license.
+This application is licensed under the Apache2.0 license.
 
 ## Contributing
 Bao Nguyen
