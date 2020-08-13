@@ -38,4 +38,4 @@ Contact me through email: 467bnguyen@gmail.com
 
 ### This is how the application looks like in the VS Code terminal
 </br>
-![example images](https://github.com/bnguyen467/readme-generator/blob/master/images/code-terminal.png)
+![screenshot](https://github.com/bnguyen467/readme-generator/blob/master/images/code-terminal.png)
