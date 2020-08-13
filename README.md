@@ -37,5 +37,6 @@ Find me on github: [bnguyen467](https://github.com/bnguyen467)
 Contact me through email: 467bnguyen@gmail.com
 
 ### This is how the application looks like in the VS Code terminal
-</br>
-![screenshot](https://github.com/bnguyen467/readme-generator/blob/master/images/code-terminal.png)
+**Follow the link to the video for more details**
+
+![Example Image](https://github.com/bnguyen467/readme-generator/blob/master/images/code-terminal.png)
